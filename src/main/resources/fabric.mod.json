@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "quickbet",
+  "version": "1.0.0",
+  "name": "Quickbet Menu",
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.anas.quickbet.QuickbetMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.1",
+    "minecraft": "~26.1",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
