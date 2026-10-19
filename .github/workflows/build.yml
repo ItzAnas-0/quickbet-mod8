@@ -24,3 +24,4 @@ jobs:
         with:
           name: quickbet-mod
           path: build/libs/quickbet-*.jar
+          
